@@ -1,3 +1,5 @@
 .angular
+database/*
+!database/mongod.conf
 node_modules
 out
