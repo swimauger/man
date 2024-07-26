@@ -1,5 +1,5 @@
 # MAN Stack
-## Mongo, AngularJS, NestJS
+## MongoDB, AngularJS, NestJS
 
 ### Start Client
 Set Working Directory to `client` and run:
