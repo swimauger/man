@@ -1,0 +1,16 @@
+{
+  "type": "module",
+  "scripts": {
+    "build": "ng build",
+    "watch": "ng build --watch"
+  },
+  "dependencies": {
+    "@angular/platform-browser": "latest",
+    "@angular/router": "latest"
+  },
+  "devDependencies": {
+    "@angular/cli": "latest",
+    "@angular-devkit/build-angular": "latest",
+    "@babel/plugin-syntax-top-level-await": "latest"
+  }
+}
