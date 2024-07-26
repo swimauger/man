@@ -7,6 +7,12 @@ Set Working Directory to `client` and run:
   npm run watch
 ```
 
+### Start Database
+Set Working Directory to `database` and run:
+```sh
+  mongod --config mongod.conf
+```
+
 ### Start Server
 Set Working Directory to `server` and run:
 ```sh
